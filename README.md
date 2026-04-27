@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**SantosPool/SantosPool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Santos! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+Senior Full Stack Developer with 15 years of experience building and leading enterprise solutions on .NET, React, and Azure. My approach combines architecture, integration, quality, and continuous delivery to transform business needs into scalable, secure, and measurable products. At Aviva I led end-to-end initiatives on Azure, critical integrations, observability, and CI/CD, accelerating delivery times and strengthening operations. I complement this profile with strategic use of applied AI for analysis, solution design, development, and quality improvement.
+
+## GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SantosPool&theme=dark)](https://git.io/streak-stats)
+
+![Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantosPool&theme=dark&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantosPool&layout=compact)
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-santospool.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santos-reyes-pool-nahuat-162622106/)
+
+
+
