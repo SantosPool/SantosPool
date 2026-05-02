@@ -9,9 +9,8 @@ Senior Full Stack Developer with 15 years of experience building and leading ent
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SantosPool&theme=dark)](https://git.io/streak-stats)
 
-![Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantosPool&theme=dark&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantosPool&layout=compact)
+![Stats](https://raw.githubusercontent.com/SantosPool/readme-stats/main/profile/stats.svg)
+![Languages](https://raw.githubusercontent.com/SantosPool/readme-stats/main/profile/languages.svg)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-santospool.vercel.app/)
