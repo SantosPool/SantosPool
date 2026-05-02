@@ -10,7 +10,7 @@ Senior Full Stack Developer with 15 years of experience building and leading ent
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SantosPool&theme=dark)](https://git.io/streak-stats)
 
 ![Languages](https://raw.githubusercontent.com/SantosPool/readme-stats/main/profile/languages.svg)
-![Projects](https://raw.githubusercontent.com/YOUR_USERNAME/readme-stats/main/profile/projects.svg)
+![Projects](https://raw.githubusercontent.com/SantosPool/readme-stats/main/profile/projects.svg)
 ![Stats](https://raw.githubusercontent.com/SantosPool/readme-stats/main/profile/stats.svg)
 
 ## 🔗 Links
